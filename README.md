@@ -9,8 +9,8 @@ Welcome to the vibrant universe of my GitHub! 🚀 Here, you'll witness the magi
 ## 🎨 Tech Palette
 
 🌱 Currently Growing
-Gardening in the fields of Machine Learning 🤖
-Nurturing seeds of creativity with UI/UX design 🎨
+Gardening in the fields of Web Development 🤖
+Nurturing seeds of creativity with Big Data 🎨
 🚀 Flying Through the GitHubverse
 
 📫 Message in a Bottle
