@@ -28,8 +28,4 @@ vbnet
 
 Feel free to modify this template to better suit your personality and style. The idea is to make your GitHub profile a reflection of who you are and what you're passionate about. You can also include additional sections or customize the existing ones to make it uniquely yours.
 
-```bash
-$ npx Kaushal
 
-# Mixing colors of:
-HTML,CSS,Javascript,Hadoop,Python
